@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="layoutStyle">s</style>
+
+    <style name="myStyle">se</style>
+
+    <style name="buttonStyle">d</style>
+
+    <style name="pickerStyle">s</style>
+
+    <style name="timerViewStyle">dd</style>
+</resources>
