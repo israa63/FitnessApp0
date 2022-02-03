@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FitnessApp0">
         <activity
+            android:name=".kkkkkkk"
+            android:exported="true" />
+        <activity
             android:name=".ThierdActivity"
             android:exported="true" />
         <activity
